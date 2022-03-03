@@ -14,8 +14,8 @@ async function bootstrap() {
   );
 
   const config = new DocumentBuilder()
-    .setTitle('Cats example')
-    .setDescription('The cats API description')
+    .setTitle('Infamou5 API Test')
+    .setDescription('Infamou5 API Test')
     .setVersion('1.0')
     .addTag('cats')
     .build();
